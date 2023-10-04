@@ -34,7 +34,7 @@ entries:
           - title: "Authors: Ze Wang, Yuguang Wei, Pan Shang"
           - title: "Year: October 2023"
           - title: "doi:10.1016/j.tre.2023.103287"
-            url: https://doi:10.1016/j.tre.2023.103287
+          #  url: https://doi:10.1016/j.tre.2023.103287
   - title: Links     
     entries:
       - title: "ORCID: https://orcid.org/0000-0001-7717-3557"
