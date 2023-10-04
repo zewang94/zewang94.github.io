@@ -2,9 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Personal Information
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Family name, First name: Wang, Ze
+      - title: Gender: Male
+      - title: Nationality: China
+      - title: Date of birth: April 1994
+      - title: Email: ze-wang@outlook.com
+      - title: Phone: (+86) 13661396863
+      - title: Address: Building #8, Beijing Jiaotong University, Beijing, China
+
+      
