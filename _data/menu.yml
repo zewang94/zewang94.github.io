@@ -23,17 +23,17 @@ entries:
           - title: "Dalian Jiaotong University (DJTU), Dalian, China"
   - title: Research Interests
     entries:
-     # - title: "Rail Transportation & Logistics with particular interest in Freight on Rail Transit"
+      - title: "Rail Transportation & Logistics with particular interest in Freight on Rail Transit"
       - title: "Transportation Service Network Design with Asset Management"
       - title: "Network Flows Theory and Algorithms"
   - title: Papers
     entries:
       - title: "Freight transport using additional railcars attached to intercity passenger trains with transshipment and railcar circulation: Tabu-search-based Lagrangian heuristic"
-      entries:
-        - title: "Journal: Transportation Research Part E: Logistics and Transportation Review"
-        - title: "Authors: Ze Wang, Yuguang Wei, Pan Shang"
-        - title: "Year: October 2023"
-        - title: "doi:10.1016/j.tre.2023.103287"
+        entries:
+          - title: "Journal: Transportation Research Part E: Logistics and Transportation Review"
+          - title: "Authors: Ze Wang, Yuguang Wei, Pan Shang"
+          - title: "Year: October 2023"
+          - title: "doi:10.1016/j.tre.2023.103287"
   - title: Links     
     entries:
       - title: "ORCID: https://orcid.org/0000-0001-7717-3557"
