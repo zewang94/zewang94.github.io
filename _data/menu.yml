@@ -10,6 +10,31 @@ entries:
       - title: "Date of birth: April 1994"
       - title: "Email: ze-wang@outlook.com"
       - title: "Phone: (+86) 13661396863"
-      - title: "Address: Building /#8, Beijing Jiaotong University, Beijing, China"
-
-      
+      - title: "Address: Building #8, Beijing Jiaotong University, Beijing, China"
+  - title: Education
+    entries:
+      - title: "Ph.D. in Transportation Planning and Management"
+      - title: "Septemper 2017 – Present"
+      - title: "Beijing Jiaotong University (BJTU), Beijing, China"
+        entries:
+      - title: "Major courses: Graphs, Networks, and Algorithms; Linear Programming; Mixed Integer Programming"
+      - title: "Supervisor: Prof. Yuguang We"
+      - title: "Thesis: “” "
+    entries:
+      - title: "B.Eng. in Traffic and Transportation"
+      - title: "Septemper 2013 – June 2017"
+      - title: "Dalian Jiaotong University (DJTU), Dalian, China"
+      - title: "Major courses: Railway Operations and Management; Operations Research; Data Structures and Algorithms"
+      - title: "GPA: 92.15/100 (ranking 1/118)"
+  - title: Research Interests
+      entries:
+        - title: "Rail transportation & Logistics with particular interest in Freight on Rail Transit"
+        - title: "Transportation Service Network Design with Asset Management"
+        - title: "Network Flows Theory and Algorithms"
+  - title: Papers
+      entries:
+        - title: "Wang, Z., Wei, Y., Shang, P., 2023. Freight transport using additional railcars attached to intercity passenger trains with transshipment and railcar circulation: Tabu-search-based Lagrangian heuristic. Transportation Research Part E: Logistics and Transportation Review 178, 103287. URL: https://linkinghub.elsevier.com/retrieve/pii/S1366554523002752, doi:10.1016/j.tre.2023.103287."
+  - title: Links     
+      entries:
+        - title: "ORCID: https://orcid.org/0000-0001-7717-3557"
+        - title: "Homepage: https://zewang94.github.i0"
