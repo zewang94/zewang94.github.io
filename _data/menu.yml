@@ -16,18 +16,18 @@ entries:
       - title: "Ph.D. in Transportation Planning and Management"
       - title: "Septemper 2017 – Present"
       - title: "Beijing Jiaotong University (BJTU), Beijing, China"
-  #  entries:
-    #  - title: "B.Eng. in Traffic and Transportation"
-    #  - title: "Septemper 2013 – June 2017"
-    #  - title: "Dalian Jiaotong University (DJTU), Dalian, China"
- # - title: Research Interests
-  #    entries:
-   #     - title: "Rail transportation & Logistics with particular interest in Freight on Rail Transit"
-   #     - title: "Transportation Service Network Design with Asset Management"
-       # - title: "Network Flows Theory and Algorithms"
-#  - title: Papers
-   #   entries:
-   #     - title: "Wang, Z., Wei, Y., Shang, P., 2023. Freight transport using additional railcars attached to intercity passenger trains with transshipment and railcar circulation: Tabu-search-based Lagrangian heuristic. Transportation Research Part E: Logistics and Transportation Review 178, 103287. URL: https://linkinghub.elsevier.com/retrieve/pii/S1366554523002752, doi:10.1016/j.tre.2023.103287."
+    entries:
+      - title: "B.Eng. in Traffic and Transportation"
+      - title: "Septemper 2013 – June 2017"
+      - title: "Dalian Jiaotong University (DJTU), Dalian, China"
+  - title: Research Interests
+      entries:
+        - title: "Rail transportation & Logistics with particular interest in Freight on Rail Transit"
+        - title: "Transportation Service Network Design with Asset Management"
+        - title: "Network Flows Theory and Algorithms"
+  - title: Papers
+      entries:
+        - title: "Wang, Z., Wei, Y., Shang, P., 2023. Freight transport using additional railcars attached to intercity passenger trains with transshipment and railcar circulation: Tabu-search-based Lagrangian heuristic. Transportation Research Part E: Logistics and Transportation Review 178, 103287. URL: https://linkinghub.elsevier.com/retrieve/pii/S1366554523002752, doi:10.1016/j.tre.2023.103287."
   #- title: Links     
      # entries:
      #   - title: "ORCID: https://orcid.org/0000-0001-7717-3557"
