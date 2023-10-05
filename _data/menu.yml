@@ -5,12 +5,12 @@ entries:
   - title: Personal Information
     entries:
       - title: "Family name, First name : Wang, Ze"
-      - title: "Gender: Male"
-      - title: "Nationality: China"
-      - title: "Date of birth: April 1994"
+    #  - title: "Gender: Male"
+    #  - title: "Nationality: China"
+    # - title: "Date of birth: April 1994"
       - title: "Email: ze-wang@outlook.com"
-      - title: "Phone: (+86) 13661396863"
-      - title: "Address: Building #8, Beijing Jiaotong University, Beijing, China"
+    #  - title: "Phone: (+86) 13661396863"
+    #  - title: "Address: Building #8, Beijing Jiaotong University, Beijing, China"
   - title: Education
     entries:
       - title: "Ph.D. in Transportation Planning and Management"
