@@ -33,8 +33,8 @@ entries:
           - title: "Journal: Transportation Research Part E: Logistics and Transportation Review"
           - title: "Authors: Ze WANG, Yuguang WEI, Pan SHANG"
           - title: "Year: October 2023"
-          - title: "https://doi:10.1016/j.tre.2023.103287"
-            url: https://doi:10.1016/j.tre.2023.103287
+          - title: "https://doi.org/10.1016/j.tre.2023.103287"
+            url: https://doi.org/10.1016/j.tre.2023.103287
   - title: Links     
     entries:
       - title: "https://zewang94.github.io"
