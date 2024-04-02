@@ -4,7 +4,7 @@
 entries:
   - title: Personal Information
     entries:
-      - title: "Family name, First name : Wang, Ze"
+      - title: "Family name, First name : WANG, Ze"
     #  - title: "Gender: Male"
     #  - title: "Nationality: China"
     # - title: "Date of birth: April 1994"
@@ -33,8 +33,8 @@ entries:
           - title: "Journal: Transportation Research Part E: Logistics and Transportation Review"
           - title: "Authors: Ze Wang, Yuguang Wei, Pan Shang"
           - title: "Year: October 2023"
-          - title: "doi:10.1016/j.tre.2023.103287"
-          #  url: https://doi:10.1016/j.tre.2023.103287
+          - title: "https://doi:10.1016/j.tre.2023.103287"
+            url: https://doi:10.1016/j.tre.2023.103287
   - title: Links     
     entries:
       - title: "https://zewang94.github.io"
