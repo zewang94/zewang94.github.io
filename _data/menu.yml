@@ -11,8 +11,8 @@ entries:
       - title: "Email: ze-wang@outlook.com"
     #  - title: "Phone: (+86) 13661396863"
     #  - title: "Address: Building #8, Beijing Jiaotong University, Beijing, China"
-      - title: "https://zewang94.github.io"
-        url: https://zewang94.github.io
+    #  - title: "https://zewang94.github.io"
+    #    url: https://zewang94.github.io
   - title: Education
     entries:
       - title: "Ph.D. in Transportation Planning and Management"
@@ -33,8 +33,8 @@ entries:
       - title: "Ze WANG, Yuguang WEI, Pan SHANG, 2023. Freight transport using additional railcars attached to intercity passenger trains with transshipment and railcar circulation: Tabu-search-based Lagrangian heuristic. Transportation Research Part E: Logistics and Transportation Review, 178, 103287. https://doi.org/10.1016/j.tre.2023.103287." 
   - title: Links     
     entries:
-     # - title: "https://zewang94.github.io"
-      #  url: https://zewang94.github.io
+      - title: "https://zewang94.github.io"
+        url: https://zewang94.github.io
       - title: "https://orcid.org/0000-0001-7717-3557"
         url: https://orcid.org/0000-0001-7717-3557
       - title: "https://scholar.google.com/citations?user=hI4Hb78AAAAJ&hl"
