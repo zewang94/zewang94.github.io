@@ -18,7 +18,7 @@ entries:
       - title: "Ph.D. in Transportation Planning and Management"
         entries:
           - title: "Septemper 2017 – Present"
-          - title: "Beijing Jiaotong University (BJTU), Beijing, China"
+          - title: "Beijing Jiaotong University, Beijing, China"
       - title: "B.Eng. in Traffic and Transportation"
         entries:
           - title: "Septemper 2013 – June 2017"
@@ -30,7 +30,7 @@ entries:
       - title: "Network Flows Theory and Algorithms"
   - title: Publication
     entries:
-      - title: Ze WANG, Yuguang WEI, Pan SHANG, 2023. Freight transport using additional railcars attached to intercity passenger trains with transshipment and railcar circulation: Tabu-search-based Lagrangian heuristic. Transportation Research Part E: Logistics and Transportation Review, 178, 103287. 
+      - title: "Ze WANG, Yuguang WEI, Pan SHANG, 2023. Freight transport using additional railcars attached to intercity passenger trains with transshipment and railcar circulation: Tabu-search-based Lagrangian heuristic. Transportation Research Part E: Logistics and Transportation Review, 178, 103287." 
           - title: "https://doi.org/10.1016/j.tre.2023.103287"
             url: https://doi.org/10.1016/j.tre.2023.103287
   - title: Links     
@@ -41,4 +41,4 @@ entries:
         url: https://orcid.org/0000-0001-7717-3557
       - title: "https://scholar.google.com/citations?user=hI4Hb78AAAAJ&hl"
         url: https://scholar.google.com/citations?user=hI4Hb78AAAAJ&hl
-   Updated in April 2024
+  - title: Updated in April 2024
